@@ -1,0 +1,203 @@
+{
+    "symptoms": {
+        "headache": [
+            "common cold",
+            "flu",
+            "migraine",
+            "tension headache",
+            "sinusitis"
+        ],
+        "fever": [
+            "common cold",
+            "flu",
+            "infection",
+            "strep throat"
+        ],
+        "cough": [
+            "common cold",
+            "flu",
+            "bronchitis",
+            "pneumonia",
+            "allergies"
+        ],
+        "sneezing": [
+            "common cold",
+            "flu",
+            "allergies"
+        ],
+        "fatigue": [
+            "common cold",
+            "flu",
+            "stress",
+            "lack of sleep",
+            "anemia"
+        ],
+        "nausea": [
+            "flu",
+            "food poisoning",
+            "stomach virus",
+            "migraine",
+            "pregnancy"
+        ],
+        "vomiting": [
+            "flu",
+            "food poisoning",
+            "stomach virus",
+            "motion sickness"
+        ],
+        "diarrhea": [
+            "stomach virus",
+            "food poisoning",
+            "irritable bowel syndrome",
+            "lactose intolerance"
+        ],
+        "rash": [
+            "allergies",
+            "chickenpox",
+            "measles",
+            "eczema",
+            "poison ivy"
+        ],
+        "dizziness": [
+            "dehydration",
+            "inner ear infection",
+            "low blood sugar",
+            "vertigo"
+        ],
+        "weakness": [
+            "muscle strain",
+            "flu",
+            "electrolyte imbalance",
+            "multiple sclerosis"
+        ],
+        "insomnia": [
+            "stress",
+            "anxiety",
+            "depression",
+            "sleep apnea"
+        ],
+        "itchy": [
+            "allergies",
+            "eczema",
+            "dry skin",
+            "psoriasis"
+        ],
+        "bloating": [
+            "irritable bowel syndrome",
+            "lactose intolerance",
+            "food intolerance",
+            "celiac disease",
+            "constipation"
+        ],
+        "chills": [
+            "flu",
+            "common cold",
+            "pneumonia",
+            "infection",
+            "sepsis"
+        ],
+        "constipation": [
+            "irritable bowel syndrome",
+            "dehydration",
+            "lack of fiber",
+            "medication side effects",
+            "hypothyroidism"
+        ],
+        "sweating": [
+            "anxiety",
+            "menopause",
+            "hyperthyroidism",
+            "low blood sugar",
+            "infection"
+        ],
+        "thirst": [
+            "dehydration",
+            "diabetes",
+            "kidney problems",
+            "medication side effects"
+        ],
+        "tremors": [
+            "anxiety",
+            "Parkinson's disease",
+            "multiple sclerosis",
+            "alcohol withdrawal",
+            "low blood sugar"
+        ],
+        "weight gain": [
+            "thyroid disorders",
+            "diabetes",
+            "depression",
+            "eating disorders",
+            "certain medications"
+        ],
+        "weight loss": [
+            "thyroid disorders",
+            "diabetes",
+            "depression",
+            "eating disorders",
+            "cancer",
+            "certain medications"
+        ],
+        "burning": [
+            "urinary tract infection",
+            "heartburn",
+            "acid reflux",
+            "sunburn",
+            "nerve pain"
+        ],
+        "cramps": [
+            "menstrual cramps",
+            "muscle cramps",
+            "dehydration",
+            "irritable bowel syndrome"
+        ],
+        "discharge": [
+            "vaginal infection",
+            "STI",
+            "ear infection"
+        ],
+        "pain": [
+            "arthritis",
+            "injury",
+            "infection",
+            "nerve damage",
+            "cancer"
+        ],
+        "swelling": [
+            "injury",
+            "inflammation",
+            "infection",
+            "lymphedema",
+            "heart failure"
+        ],
+        "tingling": [
+            "nerve damage",
+            "vitamin deficiency",
+            "multiple sclerosis",
+            "diabetes"
+        ]
+    },
+    "recommendations": {
+        "common cold": "Rest, stay hydrated, and consider over-the-counter medications for symptom relief.",
+        "flu": "Rest, stay hydrated, and consider over-the-counter medications for symptom relief.",
+        "migraine": "Rest in a quiet, dark room. Apply a cold compress to your forehead. Consider over-the-counter pain relievers.",
+        "tension headache": "Apply a warm compress to your neck and shoulders. Practice stress management techniques. Consider over-the-counter pain relievers.",
+        "sinusitis": "Use a humidifier or saline nasal spray. Consider over-the-counter pain relievers and decongestants.",
+        "infection": "Consult a doctor for diagnosis and appropriate treatment, which may include antibiotics.",
+        "strep throat": "Consult a doctor for diagnosis and appropriate treatment, which usually involves antibiotics.",
+        "allergies": "Identify and avoid allergens. Consider over-the-counter antihistamines.",
+        "bronchitis": "Rest, stay hydrated, and use a humidifier. Consider over-the-counter pain relievers and cough suppressants.",
+        "pneumonia": "Consult a doctor for diagnosis and appropriate treatment, which may include antibiotics.",
+        "muscle strain": "Rest the affected muscle, apply ice, and consider over-the-counter pain relievers.",
+        "stress": "Practice stress management techniques such as exercise, meditation, or deep breathing.",
+        "lack of sleep": "Aim for 7-9 hours of quality sleep per night. Establish a regular sleep schedule.",
+        "food poisoning": "Stay hydrated and rest. Consider over-the-counter medications for symptom relief.",
+        "stomach virus": "Stay hydrated and rest. Consider over-the-counter medications for symptom relief.",
+        "irritable bowel syndrome": "Consult a doctor for diagnosis and management strategies. Dietary changes and stress management may help.",
+        "eczema": "Keep your skin moisturized. Avoid triggers that worsen your eczema.",
+        "anxiety": "Practice relaxation techniques. Seek professional help if anxiety is persistent.",
+        "dehydration": "Drink plenty of fluids and electrolytes.",
+        "hypothyroidism": "Consult a doctor for hormone replacement therapy.",
+        "diabetes": "Consult an endocrinologist for a management plan."
+    }
+}
