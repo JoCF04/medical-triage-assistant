@@ -199,5 +199,163 @@
         "dehydration": "Drink plenty of fluids and electrolytes.",
         "hypothyroidism": "Consult a doctor for hormone replacement therapy.",
         "diabetes": "Consult an endocrinologist for a management plan."
-    }
+    },
+    "aliases": {
+        "headache": [
+            "head hurts",
+            "head is killing me",
+            "head ache"
+        ],
+        "fever": [
+            "feverish",
+            "high temperature",
+            "temperature"
+        ],
+        "cough": [
+            "coughing"
+        ],
+        "sneezing": [
+            "sneeze",
+            "sneezes"
+        ],
+        "fatigue": [
+            "tired",
+            "exhausted",
+            "worn out",
+            "no energy",
+            "sleepy"
+        ],
+        "nausea": [
+            "nauseous",
+            "nauseated",
+            "queasy",
+            "sick to my stomach"
+        ],
+        "vomiting": [
+            "vomit",
+            "threw up",
+            "throw up",
+            "throwing up"
+        ],
+        "diarrhea": [
+            "diarrhoea",
+            "loose stools",
+            "runny stool"
+        ],
+        "rash": [
+            "spots",
+            "hives",
+            "red bumps"
+        ],
+        "dizziness": [
+            "dizzy",
+            "lightheaded",
+            "light-headed",
+            "room is spinning"
+        ],
+        "weakness": [
+            "weak"
+        ],
+        "insomnia": [
+            "can't sleep",
+            "cannot sleep",
+            "can not sleep",
+            "trouble sleeping",
+            "unable to sleep"
+        ],
+        "itchy": [
+            "itching",
+            "itch",
+            "itches",
+            "itchiness"
+        ],
+        "bloating": [
+            "bloated"
+        ],
+        "chills": [
+            "shivering",
+            "shivers",
+            "chill"
+        ],
+        "constipation": [
+            "constipated"
+        ],
+        "sweating": [
+            "sweat",
+            "sweaty",
+            "night sweats"
+        ],
+        "thirst": [
+            "thirsty"
+        ],
+        "tremors": [
+            "trembling",
+            "shaking",
+            "shaky",
+            "tremor"
+        ],
+        "weight gain": [
+            "gained weight",
+            "gaining weight",
+            "put on weight"
+        ],
+        "weight loss": [
+            "lost weight",
+            "losing weight"
+        ],
+        "burning": [
+            "burns",
+            "burn"
+        ],
+        "cramps": [
+            "cramp",
+            "cramping"
+        ],
+        "pain": [
+            "hurts",
+            "ache",
+            "aches",
+            "sore",
+            "painful"
+        ],
+        "swelling": [
+            "swollen",
+            "swell"
+        ],
+        "tingling": [
+            "pins and needles",
+            "tingle",
+            "tingles"
+        ]
+    },
+    "red_flags": [
+        "chest pain",
+        "chest hurts",
+        "pain in my chest",
+        "pressure in my chest",
+        "can't breathe",
+        "cannot breathe",
+        "trouble breathing",
+        "difficulty breathing",
+        "shortness of breath",
+        "short of breath",
+        "fainted",
+        "passed out",
+        "unconscious",
+        "coughing up blood",
+        "vomiting blood",
+        "blood in my stool",
+        "bleeding a lot",
+        "seizure",
+        "stiff neck",
+        "confused",
+        "confusion",
+        "face drooping",
+        "slurred speech",
+        "numb on one side",
+        "can't move my arm",
+        "worst headache of my life"
+    ],
+    "urgent_message": "Some of what you describe ({flags}) can be a sign of something serious. Please call emergency services or go to the nearest emergency room now.",
+    "default_recommendation": "If it lasts more than a few days or gets worse, see a doctor."
 }

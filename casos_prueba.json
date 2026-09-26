@@ -1,0 +1,274 @@
+[
+  {
+    "texto": "I have a headache",
+    "sintomas": [
+      "headache"
+    ],
+    "urgente": false
+  },
+  {
+    "texto": "I've had headaches all week",
+    "sintomas": [
+      "headache"
+    ],
+    "urgente": false
+  },
+  {
+    "texto": "I have a fever and a cough",
+    "sintomas": [
+      "fever",
+      "cough"
+    ],
+    "urgente": false
+  },
+  {
+    "texto": "I've been coughing a lot and sneezing",
+    "sintomas": [
+      "cough",
+      "sneezing"
+    ],
+    "urgente": false
+  },
+  {
+    "texto": "I feel dizzy when I stand up",
+    "sintomas": [
+      "dizziness"
+    ],
+    "urgente": false
+  },
+  {
+    "texto": "I'm so tired lately",
+    "sintomas": [
+      "fatigue"
+    ],
+    "urgente": false
+  },
+  {
+    "texto": "I feel exhausted and weak",
+    "sintomas": [
+      "fatigue",
+      "weakness"
+    ],
+    "urgente": false
+  },
+  {
+    "texto": "My skin is itchy and I have a rash",
+    "sintomas": [
+      "itchy",
+      "rash"
+    ],
+    "urgente": false
+  },
+  {
+    "texto": "I threw up twice this morning",
+    "sintomas": [
+      "vomiting"
+    ],
+    "urgente": false
+  },
+  {
+    "texto": "I feel nauseous after eating",
+    "sintomas": [
+      "nausea"
+    ],
+    "urgente": false
+  },
+  {
+    "texto": "I have diarrhea and cramps",
+    "sintomas": [
+      "diarrhea",
+      "cramps"
+    ],
+    "urgente": false
+  },
+  {
+    "texto": "I can't sleep at night",
+    "sintomas": [
+      "insomnia"
+    ],
+    "urgente": false
+  },
+  {
+    "texto": "I feel bloated all the time",
+    "sintomas": [
+      "bloating"
+    ],
+    "urgente": false
+  },
+  {
+    "texto": "I'm constipated",
+    "sintomas": [
+      "constipation"
+    ],
+    "urgente": false
+  },
+  {
+    "texto": "I have chills and a high temperature",
+    "sintomas": [
+      "chills",
+      "fever"
+    ],
+    "urgente": false
+  },
+  {
+    "texto": "I'm always thirsty",
+    "sintomas": [
+      "thirst"
+    ],
+    "urgente": false
+  },
+  {
+    "texto": "My hands are shaking",
+    "sintomas": [
+      "tremors"
+    ],
+    "urgente": false
+  },
+  {
+    "texto": "I lost weight without trying",
+    "sintomas": [
+      "weight loss"
+    ],
+    "urgente": false
+  },
+  {
+    "texto": "I gained weight recently",
+    "sintomas": [
+      "weight gain"
+    ],
+    "urgente": false
+  },
+  {
+    "texto": "It burns when I pee",
+    "sintomas": [
+      "burning"
+    ],
+    "urgente": false
+  },
+  {
+    "texto": "My ankle is swollen",
+    "sintomas": [
+      "swelling"
+    ],
+    "urgente": false
+  },
+  {
+    "texto": "I feel tingling in my feet",
+    "sintomas": [
+      "tingling"
+    ],
+    "urgente": false
+  },
+  {
+    "texto": "My knee hurts",
+    "sintomas": [
+      "pain"
+    ],
+    "urgente": false
+  },
+  {
+    "texto": "I'm sweating a lot at night",
+    "sintomas": [
+      "sweating"
+    ],
+    "urgente": false
+  },
+  {
+    "texto": "I have a headache but no fever",
+    "sintomas": [
+      "headache"
+    ],
+    "urgente": false
+  },
+  {
+    "texto": "I don't have a cough",
+    "sintomas": [],
+    "urgente": false
+  },
+  {
+    "texto": "No fever, just a rash",
+    "sintomas": [
+      "rash"
+    ],
+    "urgente": false
+  },
+  {
+    "texto": "I don't have a fever or a cough, but I feel dizzy",
+    "sintomas": [
+      "dizziness"
+    ],
+    "urgente": false
+  },
+  {
+    "texto": "I have chest pain",
+    "sintomas": [],
+    "urgente": true
+  },
+  {
+    "texto": "I can't breathe well and I have a cough",
+    "sintomas": [
+      "cough"
+    ],
+    "urgente": true
+  },
+  {
+    "texto": "I fainted this morning",
+    "sintomas": [],
+    "urgente": true
+  },
+  {
+    "texto": "I have a fever and a stiff neck",
+    "sintomas": [
+      "fever"
+    ],
+    "urgente": true
+  },
+  {
+    "texto": "I'm coughing up blood",
+    "sintomas": [],
+    "urgente": true
+  },
+  {
+    "texto": "I have no chest pain, only a headache",
+    "sintomas": [
+      "headache"
+    ],
+    "urgente": false
+  },
+  {
+    "texto": "I feel like throwing up",
+    "sintomas": [
+      "nausea"
+    ],
+    "urgente": false
+  },
+  {
+    "texto": "I've had the runs since yesterday",
+    "sintomas": [
+      "diarrhea"
+    ],
+    "urgente": false
+  },
+  {
+    "texto": "My nose won't stop running",
+    "sintomas": [],
+    "urgente": false
+  },
+  {
+    "texto": "My throat is sore",
+    "sintomas": [
+      "pain"
+    ],
+    "urgente": false
+  },
+  {
+    "texto": "I feel great today",
+    "sintomas": [],
+    "urgente": false
+  },
+  {
+    "texto": "I'm having trouble breathing",
+    "sintomas": [],
+    "urgente": true
+  }
+]
